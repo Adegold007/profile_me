@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Profile</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+  <div class="profile">
+    <img src="image/tech2.jpg" alt="ceo" height="300" width="500">
+    <h1 style="color:blue;text-align:center"> TRIPLE A ENERGY AND EMBEDDED IT </h1>
+    <p><a href="https://google.com" style="color:red"> Our vision </a> </p>
+    <p style="color:green;border:solid;border-radius:15px;border-color:red;text-align:center"> Triple A Energy and Embedded IT is devoted to designing, construction , repairing and sale of Electrical and Electronic equipments </p>
+<a href="https://google.com" style="color:red">
+<p>News</p> </a>
+<a href="https://google.com" style="color:red">
+<p>Projects</p></a>
+<a href="https://google.com" style="color:red">
+<p>Showroom</p></a>
+  </div>
+</div>
+  <script src="script.js"></script>
+</body>
+</html>
